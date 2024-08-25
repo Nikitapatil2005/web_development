@@ -1,0 +1,13 @@
+h2{
+color: orange;
+letter-spacing: 10;
+}
+p{
+ color: white;  
+ background-color: rgb(209,4,161);
+ line-height: 5;
+}
+button{
+ color: white;   
+ background-color: black;   
+}
